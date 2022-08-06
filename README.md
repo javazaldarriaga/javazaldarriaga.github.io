@@ -1,4 +1,4 @@
-# javazaldarriaga.github.io
+# Java Zaldarriaga
 
 <!DOCTYPE html>
 <html lang="es">
@@ -9,7 +9,8 @@
 </head>
 
 <body>
-<h3>Hola Mundo!</h3>
-<p>Esta es la página de inicio en GitHub Pages.</p>
+<h3>Gracias por visitar mi GitHub Pages</h3>
+<p>Esta página se encuentra en preparación<br><br>
+Puede escribirme a <a href="mailto:java.zaldarriaga@gmail.com">java.zaldarriaga@gmail.com</a></p>
 </body>
 </html>
