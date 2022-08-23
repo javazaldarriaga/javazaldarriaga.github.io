@@ -11,6 +11,6 @@
 <body>
 <h3>Gracias por visitar mi GitHub Pages</h3>
 <p>Esta página se encuentra en preparación<br><br>
-Puede escribirme a <a href="mailto:java.zaldarriaga@gmail.com">java.zaldarriaga@gmail.com</a></p>
+Puede escribirme a <a href="mailto:java@zaldarriaga.ar">java@zaldarriaga.ar</a></p>
 </body>
 </html>
